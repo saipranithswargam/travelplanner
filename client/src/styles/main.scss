@@ -1,0 +1,27 @@
+@import "./abstracts/functions";
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+@import "./base/base";
+@import "./base/animations";
+@import "./base/typography";
+@import "./base/utilities";
+
+@import "./components/buttons";
+@import "./components/pageLoader";
+@import "./components/otpInput";
+@import "./components/updateImage";
+@import "./components/carousal";
+@import "./components/map_filter";
+@import "./components/footer";
+@import "./components//testimonials";
+@import "./components//placeSidebar";
+@import "./layout/header.scss";
+
+@import "./pages/error_404";
+@import "./pages/signup";
+@import "./pages/login";
+@import "./pages/profile";
+@import "./pages/map";
+@import "./pages/home";
+@import "./pages/itinarary";
